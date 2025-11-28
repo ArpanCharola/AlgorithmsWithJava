@@ -3,3 +3,4 @@ Arrays Questions
 2965. Find Missing and Repeated Values - https://leetcode.com/problems/find-missing-and-repeated-values/description/
 Leetcode - Shuffle array - https://leetcode.com/problems/shuffle-the-array/
 Leetcode - Concatenate Array - https://leetcode.com/problems/concatenation-of-array/description/
+Leetcode - Max Consecutive Ones - https://leetcode.com/problems/max-consecutive-ones/
