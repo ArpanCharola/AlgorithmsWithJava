@@ -1,6 +1,6 @@
-# Dsa-with-Java 📚
+# Algorithms with Java 📚
 
-Welcome to **Dsa-with-Java**, a repository dedicated to solving Data Structures and Algorithms (DSA) problems using Java. This repo is aimed at building strong problem-solving skills for coding interviews, competitive programming, and mastering algorithmic patterns.
+Welcome to **Algorithms with Java**, a repository dedicated to solving Data Structures and Algorithms (DSA) problems using Java. This repo is aimed at building strong problem-solving skills for coding interviews, competitive programming, and mastering algorithmic patterns.
 
 ## About
 
