@@ -11,3 +11,6 @@ Day 2
 Leetcode Array II Quest Q1. Set Mismatch - https://leetcode.com/problems/set-mismatch/
 Leetcode Array II Quest Q2. How Many Numbers Are Smaller Than the Current Number - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 Leetcode Array II Quest Q3. Find All Numbers Disappeared in an Array - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+Day 3
+Leetcode 88 - Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/description/
