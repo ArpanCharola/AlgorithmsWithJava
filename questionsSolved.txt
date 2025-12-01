@@ -14,3 +14,6 @@ Leetcode Array II Quest Q3. Find All Numbers Disappeared in an Array - https://l
 
 Day 3
 Leetcode 88 - Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/description/
+
+Day 4
+Leetcode 1518 - Water Bottles - https://leetcode.com/problems/water-bottles/
