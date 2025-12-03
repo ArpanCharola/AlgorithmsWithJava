@@ -17,3 +17,9 @@ Leetcode 88 - Merge Sorted Array - https://leetcode.com/problems/merge-sorted-ar
 
 Day 4
 Leetcode 1518 - Water Bottles - https://leetcode.com/problems/water-bottles/
+
+Day 5
+Sorting - Bubble sort & Selection Sorted
+
+Day 6
+Binary Search, Floor, Ceiling (in a sorted array)

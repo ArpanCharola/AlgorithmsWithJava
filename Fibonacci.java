@@ -1,5 +1,5 @@
 // leetcode 509
-class Solution {
+class Fibonacci {
     public int fib(int n) {
         if(n <= 1) return n;
         
