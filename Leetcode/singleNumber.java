@@ -1,4 +1,7 @@
-class Solution {
+package Leetcode;
+import java.util.HashSet;
+import java.util.Set;
+public class singleNumber {
     public int singleNumber(int[] nums) {
         Set<Integer> s = new HashSet<>();
         for(int i = 0; i < nums.length; i++){

@@ -1,4 +1,5 @@
-class Solution {
+package Leetcode;
+class canPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;
         for (int i = 0; i < flowerbed.length && count < n; i++) {
