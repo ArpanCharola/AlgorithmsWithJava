@@ -1,4 +1,4 @@
-package Leetcode.Quests.Math;
+package Leetcode.Quests;
 
 public class pivotInt {
     public int pivotInteger(int n) {
