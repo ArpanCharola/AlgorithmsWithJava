@@ -23,3 +23,8 @@ Sorting - Bubble sort & Selection Sorted
 
 Day 6
 Binary Search, Floor, Ceiling (in a sorted array)
+
+Day 12 
+1. Is Arithmetic Progression - https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
+2. Find the Pivot Integer - https://leetcode.com/problems/find-the-pivot-integer?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
+3. Palindrome Number - https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
