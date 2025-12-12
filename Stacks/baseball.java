@@ -8,12 +8,9 @@ public class baseball {
         for (String op : operations) {
 
             if (op.equals("+")) {
-                int last = stack.pop();
-                int secondLast = stack.peek();
-                int sum = last + secondLast;
-                stack.push(last);
-                stack.push(sum);
-
+                int last = stack.peek();
+                int secondLast = stack.get(stack.size() - 2);
+                stack.push(last + secondLast);
             } else if (op.equals("C")) {
                 stack.pop();
 
