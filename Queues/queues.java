@@ -10,7 +10,11 @@ public class queues {
         q.add(5);
         q.add(6);
         q.add(7);
-        
+
+        System.out.println(q.peek());
+        System.out.println(q.remove());
+        System.out.println(q.remove());
+        System.out.println(q.remove());
         System.out.println(q.peek());
     }
 }
