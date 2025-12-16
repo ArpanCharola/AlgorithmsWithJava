@@ -1,3 +1,5 @@
+package Leetcode;
+
 class HighestAltitude {
 
     // Method to calculate highest altitude
