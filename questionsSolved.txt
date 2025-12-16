@@ -32,3 +32,5 @@ Day 12
 Day 18
 
 Gfg - Majority Element - https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&category=Arrays,Strings&company=Amazon,Microsoft,Google,Flipkart&sortBy=submissions
+Gfg - Rotate Array - https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1?page=1&category=Arrays,Strings&company=Amazon,Microsoft,Google,Flipkart&sortBy=submissions
+Gfg - Sort 0s, 1s, 2s - https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&category=Arrays,Strings&company=Amazon,Microsoft,Google,Flipkart&sortBy=submissions
