@@ -28,3 +28,7 @@ Day 12
 1. Is Arithmetic Progression - https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
 2. Find the Pivot Integer - https://leetcode.com/problems/find-the-pivot-integer?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
 3. Palindrome Number - https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning
+
+Day 18
+
+Gfg - Majority Element - https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&category=Arrays,Strings&company=Amazon,Microsoft,Google,Flipkart&sortBy=submissions
