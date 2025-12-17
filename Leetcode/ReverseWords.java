@@ -1,5 +1,5 @@
 package Leetcode;
-class Solution {
+class ReverseWords {
     public String reverseWords(String s) {
         String[] words = s.trim().split("\\s+");
         

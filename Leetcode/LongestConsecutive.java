@@ -2,7 +2,7 @@ package Leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+class LongestConsecutive {
     public int longestConsecutive(int[] nums) {
 
         if (nums.length == 0) return 0;
