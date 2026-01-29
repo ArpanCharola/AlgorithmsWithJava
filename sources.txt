@@ -1,3 +1,13 @@
 1. Leetcode 75
 2. 100 Baisc Codes - https://prepinsta.com/top-100-codes/ 
-3. Kunal Kushwaha DSA Bootcamp (Java)
+3. Kunal Kushwaha DSA Bootcamp (Java) - https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+4. Striver Steet A2Z - https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+5. Problem Set - https://cses.fi/problemset/
+6. Algo Blog - https://cp-algorithms.com/
+7. Grokking Algorithms (Ebook) - 
+8. Neetcode - https://neetcode.io/
+9. Visualize DSA - https://algomaster.io/animations/dsa
+10. Company Wise Questions - https://seanprashad.com/leetcode-patterns/
+11. Tech Interview Handbook - https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+12. DSA guide - https://usaco.guide/
+13. All in one - https://saiyameh.blogspot.com/2025/12/dsa.html
