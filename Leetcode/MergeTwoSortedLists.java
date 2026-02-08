@@ -1,4 +1,17 @@
-class Solution {
+package Leetcode;
+//import java.util.List;
+
+class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode(int val) {
+        this.val = val;
+        this.next = null;
+    }
+}
+
+public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode dummy = new ListNode(-1);
         ListNode current = dummy;
@@ -14,11 +27,7 @@ class Solution {
             current = current.next;
         }
 
-        if (list1 != null) {
-            current.next = list1;
-        } else {
-            current.next = list2;
-        }
+        current.next = (list1 != null) ? list1 : list2;
 
         return dummy.next;
     }

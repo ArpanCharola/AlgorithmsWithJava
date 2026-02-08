@@ -1,5 +1,5 @@
 package Leetcode;
-class Solution {
+class NextPermutation {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
 

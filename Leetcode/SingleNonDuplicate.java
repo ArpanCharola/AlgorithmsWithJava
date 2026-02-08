@@ -1,3 +1,5 @@
+package Leetcode;
+
 public class SingleNonDuplicate {
 
     public static int findSingle(int[] nums) {

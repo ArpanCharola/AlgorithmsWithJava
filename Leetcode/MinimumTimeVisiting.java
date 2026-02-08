@@ -1,3 +1,5 @@
+package Leetcode;
+
 class MinimumTimeVisiting {
     public int minTimeToVisitAllPoints(int[][] points) {
         int totalTime = 0;

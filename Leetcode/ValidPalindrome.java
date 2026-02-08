@@ -1,4 +1,6 @@
-class Solution {
+package Leetcode;
+
+class ValidPalindrome {
     public boolean isPalindrome(String s) {
         if (s == null) return false;
 
