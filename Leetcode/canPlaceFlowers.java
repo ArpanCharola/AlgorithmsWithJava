@@ -1,4 +1,4 @@
-package Leetcode;
+//package Leetcode;
 class canPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;

@@ -1,5 +1,5 @@
 // 2544 Alternating Digit - https://leetcode.com/problems/alternating-digit-sum/
-package Leetcode;
+
 import java.util.*;
 
 class AlternatingDigit {

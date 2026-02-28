@@ -1,4 +1,4 @@
-package Leetcode;
+//package Leetcode;
 class CountPartitions {
     public int countPartitions(int[] nums) {
         long totalSum = 0;

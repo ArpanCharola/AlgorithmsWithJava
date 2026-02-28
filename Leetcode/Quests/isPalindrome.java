@@ -1,4 +1,4 @@
-package Leetcode.Quests;
+package Quests;
 
 public class isPalindrome {
     public boolean isPalindrome(int x) {

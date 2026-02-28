@@ -1,4 +1,4 @@
-package Leetcode;
+//package Leetcode;
 
 class LongestCommonPrefix {
     public String findlongestCommonPrefix(String[] strs) {

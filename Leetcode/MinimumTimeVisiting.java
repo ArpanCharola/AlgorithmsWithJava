@@ -1,4 +1,4 @@
-package Leetcode;
+//package Leetcode;
 
 class MinimumTimeVisiting {
     public int minTimeToVisitAllPoints(int[][] points) {

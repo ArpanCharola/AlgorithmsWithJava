@@ -1,5 +1,5 @@
 // 744. Smallest Letter greater than target - https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-package Leetcode;
+//package Leetcode;
 
 class SmallestLetter {
     public char nextGreatestLetter(char[] letters, char target) {
